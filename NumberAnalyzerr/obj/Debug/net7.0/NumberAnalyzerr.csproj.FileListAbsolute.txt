@@ -1,0 +1,14 @@
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/bin/Debug/net7.0/NumberAnalyzerr
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/bin/Debug/net7.0/NumberAnalyzerr.deps.json
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/bin/Debug/net7.0/NumberAnalyzerr.runtimeconfig.json
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/bin/Debug/net7.0/NumberAnalyzerr.dll
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/bin/Debug/net7.0/NumberAnalyzerr.pdb
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/NumberAnalyzerr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/NumberAnalyzerr.AssemblyInfoInputs.cache
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/NumberAnalyzerr.AssemblyInfo.cs
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/NumberAnalyzerr.csproj.CoreCompileInputs.cache
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/NumberAnalyzerr.dll
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/refint/NumberAnalyzerr.dll
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/NumberAnalyzerr.pdb
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/NumberAnalyzerr.genruntimeconfig.cache
+/Users/nc3_goodluck/Desktop/C#_afterhours/Development/NumberAnalyzerr/obj/Debug/net7.0/ref/NumberAnalyzerr.dll
